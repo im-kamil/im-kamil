@@ -1,5 +1,6 @@
 
-       ⚡ Hello Geeks 👋 , A LITTLE ABOUT ME
+       ⚡ Hello Geeks 👋 , A LITTLE ABOUT ME 
+       I am a  undergraduate student from Zakir Husain College of Engineering And Technology,AMU, Aligarh.
 
 Things I like to do:
 - 🎨 Interfaces
