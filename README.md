@@ -1,12 +1,4 @@
-
-       [![Social banner for kamil](https://github.com/im-kamil)/kamil/kamil/raw/master/assets/header-banner--optimized.svg)](https://kamil.dev)
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Kamil_kammo.
-</p>
-<p align='center'>For enquiries, reach out @ kamil@kamil.dev or over on <a href="https://twitter.com/kamil_nasar">Twitter</a>.</p>
-
-<h1 align='center'><i>Stay awesome!</i></h1>
+   ⚡ Hello Geeks 👋 , A LITTLE ABOUT ME
        I am a  undergraduate student from Zakir Husain College of Engineering And Technology,AMU, Aligarh.
 
 Things I like to do:
