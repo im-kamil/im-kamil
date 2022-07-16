@@ -4,7 +4,7 @@
 Things I like to do:
 - 🎨 Interfaces
 - 🖥 Web Applications
-- 📱 Applications     
+- 📱 Game Applications     
 
 About me:
 - 👋 Hi, I’m @im-kamil
