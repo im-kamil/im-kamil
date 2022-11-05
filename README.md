@@ -1,5 +1,5 @@
    ⚡ Hello Geeks 👋 , A LITTLE ABOUT ME
-       I am a  undergraduate student from Zakir Husain College of Engineering And Technology,AMU, Aligarh.
+       I am an undergraduate student from Zakir Husain College of Engineering And Technology,AMU, Aligarh.
 
 Things I like to do:
 - 🎨 Interfaces
@@ -30,4 +30,5 @@ About me:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/27804?s=200&v=4" alt="Django"></code>  
+[![@imkamil's Holopin board](https://holopin.me/imkamil)](https://holopin.io/@imkamil)
 
