@@ -32,3 +32,22 @@ About me:
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/27804?s=200&v=4" alt="Django"></code>  
 [![@imkamil's Holopin board](https://holopin.me/imkamil)](https://holopin.io/@imkamil)
 
+<h3 align="center"> 🤝🏻 Connect with Me 🤝</h3> 
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/md-kamil-nasar-6b3b19200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/kamil_nasar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="mailto:kamilnasar786@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
+
+<h3 align="center"> ⚡ Stay awesome, keep coding ! ⚡ </h3> 
+<p align="center">
+  Made with :heart: &nbsp;using GitHub Markdown by im-kamil
+  <br />
+  <br />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
+
