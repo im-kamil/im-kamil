@@ -1,4 +1,4 @@
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=im-kamil.im-kamil">
+    
    # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
    # I am Md Kamil Nasar (SOFTWARE ENGINEER) by passion :sparkles:
    ⚡ Hello Geeks 👋 , A LITTLE ABOUT ME
