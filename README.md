@@ -51,5 +51,10 @@ About me:
   <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
+<h2 align="center">
+  My Contributions Graph 👇👇 
+</h2>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/im-kamil/im-kamil/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/im-kamil/im-kamil/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
