@@ -1,3 +1,4 @@
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=im-kamil.im-kamil">
    # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
    # I am Md Kamil Nasar (SOFTWARE ENGINEER) by passion :sparkles:
    ⚡ Hello Geeks 👋 , A LITTLE ABOUT ME
@@ -51,10 +52,4 @@ About me:
   <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
-<h2 align="center">
-  My Contributions Graph 👇👇 
-</h2>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/im-kamil/im-kamil/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/im-kamil/im-kamil/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
