@@ -58,3 +58,7 @@ About me:
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/tayyab-ilyas/tayyab-ilyas/output/snake.svg" alt="Snake animation" />
+</div>
+
