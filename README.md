@@ -59,6 +59,6 @@ About me:
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/im-kamil/im-kamil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tayyab-ilyas/tayyab-ilyas/output/snake.svg" alt="Snake animation" />
 </div>
 
