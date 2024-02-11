@@ -50,12 +50,6 @@ About me:
 </p>
 
 <h3 align="center"> ⚡ Stay awesome, keep coding ! ⚡ </h3> 
-<p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown by im-kamil
-  <br />
-  <br />
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
 <div align="center">
 <img src="https://raw.githubusercontent.com/tayyab-ilyas/tayyab-ilyas/output/snake.svg" alt="Snake animation" />
 </div>
