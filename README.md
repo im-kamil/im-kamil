@@ -3,7 +3,6 @@
    # I am Md Kamil Nasar (SOFTWARE ENGINEER) by passion :sparkles:
    ⚡ Hello Geeks 👋 , A LITTLE ABOUT ME
        I am final year undergraduate student from Zakir Husain College of Engineering And Technology,AMU, Aligarh.
-               <img align="right" src="https://komarev.com/ghpvc/?username=im-kamildevil&label=Profile Views&color=blue&style=plastic" alt="im-kamildevil" />
                <img align="right" alt ="Coding" width = "400" src = "https://www.uniagents.com/assets/images/skype-session.gif">
               <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
