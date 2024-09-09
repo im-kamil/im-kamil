@@ -12,7 +12,7 @@ Things I like to do:
 - 📊 Data Analysis
 - 🖥 Software Engineering
 - 🧠 Problem Solving
-- 🏸 Badminton     
+- 👾👾 Cyber Security
 
 About me:
 - 👋 Hi, I’m @im-kamil
