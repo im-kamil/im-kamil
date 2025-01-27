@@ -2,7 +2,8 @@
    # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
    # I am Md Kamil Nasar :sparkles:
    ⚡ Hello Geeks 👋 , A little about me <br>
-       I am undergraduate student from Zakir Husain College of Engineering And Technology, AMU, Aligarh.
+       Senior at AMU .
+       I am graduated student from Zakir Husain College of Engineering And Technology, AMU, Aligarh.
                <img align="right" alt ="Coding" width = "400" src = "https://www.uniagents.com/assets/images/skype-session.gif">
 
 
